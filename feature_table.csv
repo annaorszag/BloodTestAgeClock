@@ -1,0 +1,37 @@
+descr_en,code_en,descr_hun,code_hun
+White blood cell count (1000 cells/uL),LBXWBCSI,WBC (white blood cell),WBC
+Lymphocyte number (1000 cells/uL),LBDLYMNO,Lymph (lymphocyta),Lymph
+Segmented neutrophils num (1000 cell/uL),LBDNENO,Neutrophil,Neutrophil
+Hemoglobin (g/dL),LBXHGB,Hgb (g/L),Hgb
+Hematocrit (%),LBXHCT,Htk (hematokrit),Htk
+Platelet count (1000 cells/uL),LBXPLTSI,Thr (thrombocyte),Thr
+"Creatinine, refrigerated serum (umol/L)",LBDSCRSI,Kreatinin,Kreatinin
+Blood Urea Nitrogen,LBDSBUSI,Karbamid,Karbamid
+Sodium,LBXSNASI,Na,Na
+Potassium (mmol/L),LBXSKSI,K,K
+C-reactive protein(mg/dL),LBXCRP,CRP (mg/L),CRP
+AST,LBXSASSI,GOT,GOT
+ALT,LBXSATSI,GPT,GPT
+Gamma Glutamyl Transferase (GGT) (IU/L),LBXSGTSI,GGT,GGT
+Alkaline phosphatase (U/L),LBDSAPSI,ALP,ALP
+Total Bilirubin (umol/L),LBDSTBSI,Ossz_bilirubin,Ossz_bilirubin
+LDL-cholesterol (mmol/L) ,LBDLDLSI,LDL-cholesterol,LDL-C
+HDL-cholesterol (mmol/L),LBDHDDSI,HDL-cholesterol,HDL-C
+Triglyceride (mmol/L) ,LBDSTRSI,Triglicerid,Triglicerid
+LDH (U/L),LBXSLDSI,LDH,LDH
+"Iron, refrigerated serum (umol/L)",LBDSIRSI,Vas,Vas
+Total iron binding capacity (umol/L),LBDTIBSI,total iron binding capacity (TVK),TVK
+Transferrin Saturation,LBDPCT,transferrin szaturacio,Transzferrin_szat
+Ferritin (ug/L),LBDFERSI,Ferritin,Ferritin
+Basophils number (1000 cells/uL),LBDBANO,Basophil,Basophil
+Eosinophils number (1000 cells/uL),LBDEONO,Eosinophil,Eosinophil
+Monocyte number (1000 cells/uL),LBDMONO,Monocyta,Monocyta
+Red blood cell count (million cells/uL),LBXRBCSI,Vorosvertest,Vorosvertest
+Mean cell volume (fL),LBXMCVSI,MCV,MCV
+Mean cell hemoglobin (pg),LBXMCHSI,MCH,MCH
+Mean cell hemoglobin concentration (g/dL),LBXMC,MCHC,MCHC
+Red cell distribution width (%),LBXRDW,RDW,RDW
+"Glucose, serum (mmol/L)",LBDSGLSI,Glukoz,Glukoz
+Total protein (g/L),LBDSTPSI,Osszfeherje,Osszfeherje
+Albumin (g/dL),LBDSALSI,Albumin,Albumin
+Uric acid (umol/L),LBDSUASI,Hugysav,Hugysav

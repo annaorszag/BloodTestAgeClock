@@ -1,6 +1,9 @@
 # BloodTestAgeClock
 
-Description: This workflow is for age prediction based on blood test and body metrics.
+Description: This workflow is for age prediction based on blood test and body metrics, related to the following paper:
+Juhász V, Ország A, Balla D, Szabó L, Sydó N, Kiss O, Csulak E, Babity M, Dohy Z, Skoda R, Becker D, Merkely B, Benczúr A, Vágó H, Kerepesi C
+[Blood Test-Based age Acceleration Is Inversely Associated with High-Volume Sports Activity](https://journals.lww.com/acsm-msse/fulltext/2024/05000/blood_test_based_age_acceleration_is_inversely.13.aspx)
+Medicine & Science in Sports & Exercise, 56(5):p 868-875 (2024)
 
 Datasets: NHANES dataset split into Nhanes_train.csv training set, Nhanes_val.csv validation set and Nhanes_test.csv testing set, Hungarian athlete datasets athletes_data_1st_ex.csv and athletes_data_2nd_ex.csv, as a control of the athlete dataset, we selected a subset of the NHANES test dataset Nhanes_test_age_matched.csv whose age distribution matched the age distribution of the athlete dataset.
 
